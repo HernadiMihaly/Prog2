@@ -4,12 +4,12 @@ class ControlStatements2 {
 		int n= 10;
 		
 		while(n>0){
-			System.out.println("n is " + +n);
+			System.out.println("n is " + n);
 			n--;
 		}
 		n=10;
 		do{
-			System.out.println("n is " + +n);
+			System.out.println("n is " + n);
 			n--;
 		}
 		while(n>0);
